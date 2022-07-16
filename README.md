@@ -24,7 +24,7 @@
 <h2 align="center">
     <p>Genomic Analysis Toolkit</p>
     </h2>
-    <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-Seq, ATAC-Seq, Hi-C, and more!</p>
+    <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-seq, ATAC-seq, Hi-C, and more!</p>
     <br>
  <h2 align="center">
     <p>Coding Languages</p>
