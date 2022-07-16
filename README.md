@@ -30,9 +30,9 @@
     <p>Coding Languages</p>
     </h2>
     <p align="center">
-     <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="R" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Python" />&nbsp;</a>
+     <a href="https://github.com/darencard?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
+    <a href="https://github.com/darencard?tab=repositories&q=&type=&language=r&sort="><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="R" />&nbsp;</a>
+    <a href="https://github.com/darencard?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Python" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;</a>
     <br><br>
