@@ -1,5 +1,6 @@
 <p>
-<b> Hey! I'm Daren. Welcome to my GitHub profile! </b>
+<h3> Hey! I'm Daren. Welcome to my GitHub profile! </h3>
+<br>
 </h1>
 </p>
 
@@ -12,22 +13,30 @@
 <a href="http://orcid.org/0000-0002-1629-5726"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="30" alt="ORCID" /></a>&nbsp;
 <a href="https://www.researchgate.net/profile/Daren_Card"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" height="30" alt="ResearchGate" /></a>&nbsp;
     <br />
-    PhD, Quantitative Biology (Evolutionary Biology, Genetics, Genomics, & Bioinformatics) from <a href="https://www.uta.edu/academics/schools-colleges/science/departments/biology">University of Texas, Arlington</a>. <br>
-    Previously a graduate student studying convergent, adaptive evolution of vertebrates using cutting-edge genomics approaches from the <a href="https://www.castoelaboratory.org/">Castoe lab</a> at UT-Arlington. 
-<br>
+ <h2 align="center">
+    <p>Background</p>
+    </h2>
+    <p>Ph.D., Quantitative Biology (Evolutionary Biology, Genetics, Genomics, & Bioinformatics) from <a href="https://www.uta.edu/academics/schools-colleges/science/departments/biology">University of Texas, Arlington</a>.</p>
+    <p>Main academic interest: Convergent, adaptive evolution of vertebrates using cutting-edge genomics approaches. </p>
+    <p>Currently a postdoctoral fellow in the <a href="https://edwards.oeb.harvard.edu/">Edwards lab</a> at Harvard University. </p>
+    <p>Previously a graduate student studying in the <a href="https://www.castoelaboratory.org/">Castoe lab</a> at UT-Arlington. </p>
+    <br>
 <h2 align="center">
-    <p>Genomic Analysis Toolkit:</p>
+    <p>Genomic Analysis Toolkit</p>
     </h2>
     <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-Seq, ATAC-Seq, Hi-C, and more!</p>
-    <h2 align="center">
-    <p>I code with:</p>
+    <br>
+ <h2 align="center">
+    <p>Coding Languages</p>
+    </h2>
+    <p align="center">
      <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
-   <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="R" />&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="R" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Python" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;</a>
-</h2>
-<h6>Badge Source: Awesome Badges - https://github.com/Envoy-VC/awesome-badges</h6>
+    <br><br>
+<h6>Badge Sources: Awesome Badges - https://github.com/Envoy-VC/awesome-badges and custom badges constructed using https://shields.io/</h6>
 
 <!--
 ### Hi there 👋
